@@ -1,0 +1,6 @@
+username : uni
+email :uni
+password : uni@----
+
+
+ngrok tun >> ngrok http 8000
